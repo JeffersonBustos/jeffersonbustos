@@ -39,7 +39,6 @@ Languages and Tools🛠:
 <br/>
 <br/>
 
-<details>
 <summary>
 ### Github Activity ✔:
 </summary>
@@ -47,9 +46,7 @@ Languages and Tools🛠:
 <a href="https://github.com/Davekibh">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davekibh&theme=tokyonight" />
   </a>
-
-</details>
-
+<br/>
 ---
 
 ---
@@ -63,7 +60,7 @@ Languages and Tools🛠:
 
 <details>
 <summary>
-### My Projects ✨:  
+
 </summary>
   
 <a href="https://github.com/Davekibh/Background-generator">
