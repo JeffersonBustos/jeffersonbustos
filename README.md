@@ -36,11 +36,9 @@ Languages and Tools🛠:
 ---
 
 ---
+<br/>
+<br/>
 
-<details>
-
-
----
 
 ### Github Activity ✔:
 
@@ -53,7 +51,9 @@ Languages and Tools🛠:
 <br/>
 
 <details>
-### My Projects ✨:
+<summary>
+### My Projects ✨:  
+</summary>
   
 <a href="https://github.com/Davekibh/Background-generator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Background-generator&theme=tokyonight" />
