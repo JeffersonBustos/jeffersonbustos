@@ -52,6 +52,7 @@ Languages and Tools🛠:
 <br/>
 <br/>
 
+<details>
 ### My Projects ✨:
   
 <a href="https://github.com/Davekibh/Background-generator">
@@ -69,7 +70,7 @@ Languages and Tools🛠:
 <a href="https://github.com/Davekibh/Chat-app">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Chat-app&theme=tokyonight" />
 </a>
-
+</details>
 
 
 
