@@ -29,7 +29,6 @@ Languages and Tools🛠:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></code>
 </details>
@@ -48,10 +47,6 @@ Languages and Tools🛠:
 <a href="https://github.com/Davekibh">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davekibh&theme=tokyonight" />
   </a>
-
-<a href="https://github.com/JeffersonBustos">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Davekibh&show_icons=true&theme=tokyonight&line_height=27" alt="Dave's github stats"/>
-</a>
 
 <br/>
 <br/>
