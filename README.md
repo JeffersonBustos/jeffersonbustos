@@ -43,20 +43,12 @@ Languages and Tools🛠:
 ### Github Activity ✔:
 </summary>
   <br/>
-<a href="https://github.com/Davekibh">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davekibh&theme=tokyonight" />
-  </a>
-<br/>
+
 ---
 
 ---
 <br/>
 
-
-
-<br/>
-<br/>
-<br/>
 
 <details>
 <summary>
