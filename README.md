@@ -37,8 +37,6 @@ Languages and Tools🛠:
 
 ---
 <br/>
-<br/>
-
 <details>
 <summary>
 ### Github Activity ✔:
